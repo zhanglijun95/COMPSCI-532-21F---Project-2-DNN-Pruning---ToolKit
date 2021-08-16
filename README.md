@@ -1,7 +1,7 @@
 # COMPSCI532-Project2-DNN-Pruning-ToolKit
 
 ## Prerequisite
-PyTorch >= 1.6.0 //
+PyTorch >= 1.6.0 \\
 sklearn //
 
 ## Tools
