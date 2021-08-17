@@ -16,6 +16,6 @@ Criterions and metrics for each task
 Please refer to the Example.ipynb
 
 ## Contact
-TA: Kunjal Panchal (kpanchal@umass.edu)
+TA: 
 
 Support: Lijun Zhang (lijunzhang@cs.umass.edu)
